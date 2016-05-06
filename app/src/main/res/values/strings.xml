@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">EPeliculas</string>
+    <string name="action_add">Agregar</string>
+    <string name="action_more">Más</string>
+    <string name="action_about">Acerca de</string>
+    <string name="action_help">Ayuda</string>
+    <string name="action_edit">Editar</string>
+    <string name="action_delete">Eliminar</string>
+    <string name="movie_name">Nombre</string>
+    <string name="movie_short_des">Sinopsis</string>
+
+    <string-array name="categorias">
+        <item>Comedia</item>
+        <item>Accion</item>
+        <item>Terror</item>
+        <item>Fantasia</item>
+        <item>Romantica</item>
+        <item>Drama</item>
+    </string-array>
 </resources>
